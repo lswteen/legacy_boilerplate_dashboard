@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="/Users/lswteen/workspace/legacy_boilerplate_dashboard/target/dashboard-0.0.1-SNAPSHOT.war" tofile="/Users/lswteen/was/apache-tomcat-9.0.96/webapps/dashboard.war" />
+  </target>
+</project>
